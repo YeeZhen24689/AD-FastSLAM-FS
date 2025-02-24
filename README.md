@@ -1,4 +1,4 @@
-# FastSLAM_Testing
+# AD-FastSLAM-FS
 The Goal of this Repo is to implement FastSLAM 1.0 on a differential drive robot to simulate its usage for mapping on a racecar.
 
 Part of the implementation is taken from https://atsushisakai.github.io/PythonRobotics/modules/slam/FastSLAM1/FastSLAM1.html.
